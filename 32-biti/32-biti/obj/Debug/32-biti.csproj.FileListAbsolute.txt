@@ -1,0 +1,6 @@
+C:\Users\Andrei\source\repos\32-biti\32-biti\bin\Debug\32-biti.exe.config
+C:\Users\Andrei\source\repos\32-biti\32-biti\bin\Debug\32-biti.exe
+C:\Users\Andrei\source\repos\32-biti\32-biti\bin\Debug\32-biti.pdb
+C:\Users\Andrei\source\repos\32-biti\32-biti\obj\Debug\32-biti.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\32-biti\32-biti\obj\Debug\32-biti.exe
+C:\Users\Andrei\source\repos\32-biti\32-biti\obj\Debug\32-biti.pdb
